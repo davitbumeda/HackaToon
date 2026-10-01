@@ -27,7 +27,7 @@ O projeto está estruturado para utilizar tecnologias modernas e acessíveis par
 
 - **Front-end:** HTML5, CSS3 e JavaScript.
 - **Banco de Dados:** MySQL.
-- **Hospedagem & Deploy:** GitHub Pages, Railwai.
+- **Hospedagem & Deploy:** GitHub Pages, Railway.
 
 ---
 
