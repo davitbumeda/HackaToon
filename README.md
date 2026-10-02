@@ -55,6 +55,10 @@ Atendendo aos requisitos acadêmicos e de privacidade, a arquitetura do banco de
 
 https://trello.com/invite/b/6a9a05e45669467847515342/ATTId43fcde91579bf9fbee9b66f8b0ef945B4CF1CB8/hackaton
 
+## Proposta de Telas (em produção)
+
+https://www.figma.com/design/MkYodMBQ4hdo8khKjL690c/Sem-t%C3%ADtulo?node-id=10-22&t=kWz3qyCeH3gDlEgx-1
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
